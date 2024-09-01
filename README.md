@@ -8,7 +8,7 @@ A **regressão linear** é uma técnica estatística usada para modelar e prever
 
 Neste exemplo, geramos dados fictícios que seguem a equação linear:
 
-\[ y = 4 + 3X + \text{ruído} \]
+ y=a+bx.
 
 O modelo é treinado para ajustar uma linha reta que melhor se aproxima dos dados, minimizando o erro entre os valores previstos e os valores reais.
 
